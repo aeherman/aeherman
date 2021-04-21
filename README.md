@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aeherman/aeherman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About
+My name is Arielle Herman, and I am an MA candidate in applied statistics at the [Quantitative Methods for Social Sciences](http://www.qmss.columbia.edu/) program of Columbia University.  I have an undergraduate background in Economics and Philosophy, and I am excited to apply analytical tools to the study of human behavior.  I am currently working on my Master's thesis comparing COVID-19 related posts across social media platforms.  You can see some of my previous projects [here](https://github.com/aeherman/hello-world).
+
+Please feel free to reach me at **a.herman@columbia.edu**.
+
+Fun fact(s): I love to read, play music (especially the concert harp!), and lindy hop in my free time.
